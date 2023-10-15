@@ -1,4 +1,4 @@
-public class Calc {
+public class Calculator {
         public String sum(String str1, String str2) {
         int num1 = Integer.valueOf(str1);
         int num2 = Integer.valueOf(str2);
